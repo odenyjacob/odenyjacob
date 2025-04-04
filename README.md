@@ -20,5 +20,8 @@ Prior to my current position of an FSP Clinical Data Manager/Engineer, I held po
 Bachelor of Science, Computer/IT Administration
 
 **Handles**
+- [Portfolio](https://odenyjacob.github.io/jacobodeny.github.io/#)
+- [LinkedIn](https://www.linkedin.com/in/odeny-jacob-2498a4156/)
+
 
 **Statistics**
