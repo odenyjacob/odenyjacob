@@ -16,6 +16,7 @@ Prior to my current position of an FSP Clinical Data Manager/Engineer, I held po
 | **Web-based Programming**     | HTML, CSS, JavaScript, PHP                                                             |
 
 **Education**
+
 Bachelor of Science, Computer/IT Administration
 
 **Handles**
