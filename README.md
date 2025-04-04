@@ -18,7 +18,7 @@ Prior to my current position of an FSP Clinical Data Manager/Engineer, I held po
 
 **Education**
 
-Bachelor of Science, Computer/IT Administration _First Class Honors_
+Bachelor of Science, Computer/IT Administration _(First Class Honors)_
 
 
 **Handles**
