@@ -4,3 +4,11 @@ Strong focus on delivering to time and quality expectations with excellent leade
 Ability to work both within a team environment and independently as required.
 Prior to my current position of an FSP Clinical Data Manager/Engineer, I held positions of a data manager and data analyst..
 
+| Skill                         | Tools                                                                                  |
+|-------------------------------|-----------------------------------------------------------------------------------------|
+| Data Management               | Medidata Rave, Veeva CDB, Medrio, ODK, RedCap, Commcare, Microsoft Access               |
+| Data ETL                      | Elluminate, Veeva CDB, SQL                                                              |
+| Data Manipulation & Analysis  | Microsoft Excel, SPSS, R, STATA, SAS, Python                                           |
+| Data Transformation & Listing | Veeva CDB, Elluminate, JReview, R, SQL                                                 |
+| Data Visualization            | Qlik Sense, R Shiny, Tableau, Power BI, Microsoft Excel                                |
+| Web-based Programming         | HTML, CSS, JavaScript, PHP                                                             |
