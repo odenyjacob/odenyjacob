@@ -18,9 +18,7 @@ Prior to my current position of an FSP Clinical Data Manager/Engineer, I held po
 
 **Education**
 
-Bachelor of Science, Computer/IT Administration (First Class Honors)
-*First Class Honors*
-_First Class Honors_
+Bachelor of Science, Computer/IT Administration _First Class Honors_
 
 
 **Handles**
@@ -32,9 +30,6 @@ _First Class Honors_
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odenyjacob&show_icons=true&theme=dark&hide_title=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odenyjacob&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odenyjacob&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odenyjacob&show_icons=true&theme=dark)
 
 
 
