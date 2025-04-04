@@ -25,6 +25,7 @@ Bachelor of Science, Computer/IT Administration
 
 
 **Statistics**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odenyjacob&show_icons=true&theme=dark&hide_title=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odenyjacob&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odenyjacob&theme=dark)
