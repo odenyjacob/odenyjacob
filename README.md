@@ -20,10 +20,8 @@ Prior to my current position of an FSP Clinical Data Manager/Engineer, I held po
 Bachelor of Science, Computer/IT Administration
 
 **Handles**
-- <img src="https://raw.githubusercontent.com/odenyjacob/jacobodeny.github.io/main/icons/linkedin-icon.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+- [![LinkedIn](https://raw.githubusercontent.com/odenyjacob/jacobodeny.github.io/main/icons/linkedin-icon.png)](https://www.linkedin.com/in/odeny-jacob-2498a4156/) LinkedIn  
 - [Portfolio](https://odenyjacob.github.io/jacobodeny.github.io/#)
-
-
 
 
 **Statistics**
