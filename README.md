@@ -1,4 +1,5 @@
 **About**
+
 Hi there 👋, welcome to my GitHub profile!  
 I am a data practitioner with over 12 years of experience in public health and clinical trial data management activities within pharmaceutical industry and CROs.  
 Strong focus on delivering to time and quality expectations with excellent leadership and communication skills and willingness to support and mentor others.  
