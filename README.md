@@ -1,7 +1,7 @@
 **About**
 
 Hi there 👋, welcome to my GitHub profile!  
-Seasoned clinical data professional with 12+ years of experience managing and engineering data for public health initiatives and clinical trials across pharmaceutical organizations and CROs. Specialized in ensuring data integrity while meeting rigorous timelines and compliance standards.
+I'm a seasoned clinical data professional with 12+ years of experience managing and engineering data for public health initiatives and clinical trials across pharmaceutical organizations and CROs. Specialized in ensuring data integrity while meeting rigorous timelines and compliance standards.
 Proven leader with exceptional communication skills and a passion for mentoring team members. Recognized for balancing collaborative teamwork with self-directed project execution to drive successful study outcomes.
 Currently serving as an FSP Clinical Data Manager/Engineer, building on previous roles as Data Manager and Data Analyst to deliver comprehensive data solutions throughout the clinical research lifecycle.
 
